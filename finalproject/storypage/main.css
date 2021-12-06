@@ -1,0 +1,115 @@
+body {
+  font-family: Arial, sans-serif;
+  color: white;
+  max-width: 70rem;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+header {
+  background-color: black;
+  font-size: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-bottom: 15px;
+}
+
+ .logo{
+  width: 100px;
+ }
+
+.nav-bar__hamburger-button__hamburger-bar{
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font: inherit;
+  height: 90%;
+  padding: 0;
+}
+
+img {
+  width: 70%;
+  display: block;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.caption {
+  width: 70%;
+  font-style: italic;
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 12px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.mainimg {
+  width="70%";
+}
+
+.pullquote {
+  width: 50%;
+  font-style: italic;
+  font-size: 18px;
+  color: white;
+  display:block;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.bodytext {
+  width: 100%;
+  font-style: block;
+  text-shadow: 2 px 2px black;
+  font-size: 14px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+h1 {
+  color: white;
+ 
+}
+
+h2 {
+  color: black;
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  color: black;
+  font-size: 20px;
+  width: 70%;
+  font-size: 14px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+
