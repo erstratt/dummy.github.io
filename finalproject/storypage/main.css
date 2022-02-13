@@ -43,6 +43,7 @@ header {
 
 img {
   width: 70%;
+  background-color: white;
   display: block;
   float: right;
   margin-left: 15px;
@@ -90,6 +91,7 @@ img {
         .graphic1 {
       width: "75%";
       padding-left: 20px;
+      background-color: white;
       padding-right: 20px;
       margin-left: auto;
       margin-right: auto;
@@ -97,6 +99,7 @@ img {
 
   .graphic2 {
           width: "75%";
+          background-color: white;
           padding-left: 20px;
           padding-right: 20px;
           margin-left: auto;
